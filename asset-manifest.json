@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd1e8fdc.chunk.css",
+    "main.js": "/static/js/main.de6aaff9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.304c19ad.js",
+    "static/css/2.4fe38ffd.chunk.css": "/static/css/2.4fe38ffd.chunk.css",
+    "static/js/2.06e496a5.chunk.js": "/static/js/2.06e496a5.chunk.js",
+    "static/css/3.859f00eb.chunk.css": "/static/css/3.859f00eb.chunk.css",
+    "static/js/3.ee41f98f.chunk.js": "/static/js/3.ee41f98f.chunk.js",
+    "static/js/4.c6c7abaa.chunk.js": "/static/js/4.c6c7abaa.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.41f7855a1344dbc2a72bd0deb94bb11f.js": "/precache-manifest.41f7855a1344dbc2a72bd0deb94bb11f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.06e496a5.chunk.js.LICENSE.txt": "/static/js/2.06e496a5.chunk.js.LICENSE.txt",
+    "static/js/3.ee41f98f.chunk.js.LICENSE.txt": "/static/js/3.ee41f98f.chunk.js.LICENSE.txt",
+    "static/js/main.de6aaff9.chunk.js.LICENSE.txt": "/static/js/main.de6aaff9.chunk.js.LICENSE.txt",
+    "static/media/404.svg": "/static/media/404.bb787358.svg",
+    "static/media/airbnb-icon.svg": "/static/media/airbnb-icon.9f2e01ca.svg",
+    "static/media/avatar3.jpg": "/static/media/avatar3.d5f40349.jpg",
+    "static/media/base.scss": "/static/media/bg5.4321a15d.jpg",
+    "static/media/financial_analyst.svg": "/static/media/financial_analyst.6e8173f0.svg",
+    "static/media/google-icon.svg": "/static/media/google-icon.14137f89.svg",
+    "static/media/hero-8.jpg": "/static/media/hero-8.527f1761.jpg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.3d5d10b8.svg",
+    "static/media/logo.gif": "/static/media/logo.e4943ca7.gif",
+    "static/media/microsoft-icon.svg": "/static/media/microsoft-icon.f32b3f89.svg",
+    "static/media/netflix-icon.svg": "/static/media/netflix-icon.0d4c48ff.svg",
+    "static/media/people-1.jpg": "/static/media/people-1.ad45b612.jpg",
+    "static/media/people-2.jpg": "/static/media/people-2.09c973c5.jpg",
+    "static/media/people-3.jpg": "/static/media/people-3.e378452f.jpg",
+    "static/media/project.svg": "/static/media/project.20e44e1c.svg",
+    "static/media/slack-icon.svg": "/static/media/slack-icon.831fd1b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304c19ad.js",
+    "static/css/2.4fe38ffd.chunk.css",
+    "static/js/2.06e496a5.chunk.js",
+    "static/css/main.bd1e8fdc.chunk.css",
+    "static/js/main.de6aaff9.chunk.js"
+  ]
+}
