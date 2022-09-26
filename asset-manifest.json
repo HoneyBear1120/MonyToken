@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.bd1e8fdc.chunk.css",
-    "main.js": "/static/js/main.de6aaff9.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.304c19ad.js",
+    "main.js": "/static/js/main.e4bcdd5a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d5ac8378.js",
     "static/css/2.4fe38ffd.chunk.css": "/static/css/2.4fe38ffd.chunk.css",
-    "static/js/2.06e496a5.chunk.js": "/static/js/2.06e496a5.chunk.js",
+    "static/js/2.8e6294aa.chunk.js": "/static/js/2.8e6294aa.chunk.js",
     "static/css/3.859f00eb.chunk.css": "/static/css/3.859f00eb.chunk.css",
-    "static/js/3.ee41f98f.chunk.js": "/static/js/3.ee41f98f.chunk.js",
-    "static/js/4.c6c7abaa.chunk.js": "/static/js/4.c6c7abaa.chunk.js",
+    "static/js/3.3cf0f5e1.chunk.js": "/static/js/3.3cf0f5e1.chunk.js",
+    "static/js/4.cbf00111.chunk.js": "/static/js/4.cbf00111.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.41f7855a1344dbc2a72bd0deb94bb11f.js": "/precache-manifest.41f7855a1344dbc2a72bd0deb94bb11f.js",
+    "precache-manifest.c5de27ca74f0f8ac4f14daf45ce1a310.js": "/precache-manifest.c5de27ca74f0f8ac4f14daf45ce1a310.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.06e496a5.chunk.js.LICENSE.txt": "/static/js/2.06e496a5.chunk.js.LICENSE.txt",
-    "static/js/3.ee41f98f.chunk.js.LICENSE.txt": "/static/js/3.ee41f98f.chunk.js.LICENSE.txt",
-    "static/js/main.de6aaff9.chunk.js.LICENSE.txt": "/static/js/main.de6aaff9.chunk.js.LICENSE.txt",
+    "static/js/2.8e6294aa.chunk.js.LICENSE.txt": "/static/js/2.8e6294aa.chunk.js.LICENSE.txt",
+    "static/js/3.3cf0f5e1.chunk.js.LICENSE.txt": "/static/js/3.3cf0f5e1.chunk.js.LICENSE.txt",
+    "static/js/main.e4bcdd5a.chunk.js.LICENSE.txt": "/static/js/main.e4bcdd5a.chunk.js.LICENSE.txt",
     "static/media/404.svg": "/static/media/404.bb787358.svg",
     "static/media/airbnb-icon.svg": "/static/media/airbnb-icon.9f2e01ca.svg",
     "static/media/avatar3.jpg": "/static/media/avatar3.d5f40349.jpg",
@@ -32,10 +32,10 @@
     "static/media/slack-icon.svg": "/static/media/slack-icon.831fd1b2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.304c19ad.js",
+    "static/js/runtime-main.d5ac8378.js",
     "static/css/2.4fe38ffd.chunk.css",
-    "static/js/2.06e496a5.chunk.js",
+    "static/js/2.8e6294aa.chunk.js",
     "static/css/main.bd1e8fdc.chunk.css",
-    "static/js/main.de6aaff9.chunk.js"
+    "static/js/main.e4bcdd5a.chunk.js"
   ]
 }
